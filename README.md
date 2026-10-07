@@ -1,5 +1,7 @@
 # DriveMate
 
+> Personal vehicle driver booking, built for safety and reliability.
+
 **Premium On-Demand Driver Booking for Your Personal Vehicle**
 
 DriveMate is a modern, premium web application that allows users to book professional drivers to drive their own cars. Designed with a focus on minimalism, safety, and reliability, the platform delivers an experience akin to top-tier ride-hailing apps, tailored specifically for personal vehicle owners.
